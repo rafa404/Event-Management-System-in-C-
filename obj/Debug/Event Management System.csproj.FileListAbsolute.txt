@@ -1,0 +1,19 @@
+D:\C# Project\Event Management System\bin\Debug\Event Management System.exe.config
+D:\C# Project\Event Management System\bin\Debug\Event Management System.exe
+D:\C# Project\Event Management System\bin\Debug\Event Management System.pdb
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.AdminActionsForm.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.BookEvent.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Book_Event.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Choice_page.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Creat_Event.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Edit_Profile.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Registration.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Login.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Properties.Resources.resources
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Start.resources
+D:\C# Project\Event Management System\obj\Debug\Event Management System.csproj.GenerateResource.cache
+D:\C# Project\Event Management System\obj\Debug\Event Management System.csproj.CoreCompileInputs.cache
+D:\C# Project\Event Management System\obj\Debug\Event Management System.exe
+D:\C# Project\Event Management System\obj\Debug\Event Management System.pdb
+D:\C# Project\Event Management System\obj\Debug\Event_Management_System.Thank_You_Page.resources
+D:\C# Project\Event Management System\obj\Debug\Event Management System.csproj.AssemblyReference.cache
